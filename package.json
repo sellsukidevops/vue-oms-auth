@@ -1,19 +1,19 @@
 {
-  "name": "vue-sellsuki-auth-2",
-  "version": "2.5.7",
-  "description": "vue-sellsuki-auth new version",
+  "name": "vue-oms-auth",
+  "version": "1",
+  "description": "vue-oms-auth",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noomerzx/vue-sellsuki-auth-2.git"
+    "url": "git+https://github.com/wanwantip/vue-oms-auth-2.git"
   },
   "author": "Wisarut Phuvanantanond <noomerzx@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/noomerzx/vue-sellsuki-auth-2/issues"
+    "url": "https://github.com/wanwantip/vue-oms-auth-2/issues"
   },
-  "homepage": "https://github.com/noomerzx/vue-sellsuki-auth-2"
+  "homepage": "https://github.com/wanwantip/vue-oms-auth-2"
 }

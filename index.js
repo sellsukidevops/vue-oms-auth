@@ -86,7 +86,7 @@ exports.install = function (Vue, options) {
     } else {
       var now = new Date()
       now.setHours(now.getHours() + 8760)
-      document.cookie = 'sellsuki.storeId=' + storeId + ';domain=.sellsuki.com;expires=' + now.toUTCString() + ';path=/'
+      document.cookie = 'sellsuki.storeId=' + storeId + ';domain=.akitahub.com;expires=' + now.toUTCString() + ';path=/'
       // console.log('set cookie as production')
     }
 
