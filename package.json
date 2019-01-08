@@ -1,6 +1,6 @@
 {
   "name": "vue-oms-auth",
-  "version": "1",
+  "version": "1.0.1",
   "description": "vue-oms-auth",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wanwantip/vue-oms-auth-2.git"
+    "url": "git+https://github.com/sellsukidevops/vue-oms-auth.git"
   },
   "author": "Wisarut Phuvanantanond <noomerzx@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wanwantip/vue-oms-auth-2/issues"
+    "url": "https://github.com/sellsukidevops/vue-oms-auth/issues"
   },
-  "homepage": "https://github.com/wanwantip/vue-oms-auth-2"
+  "homepage": "https://github.com/sellsukidevops/vue-oms-auth"
 }
