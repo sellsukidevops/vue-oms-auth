@@ -1,6 +1,6 @@
 <template lang="html">
   <div v-show="PdogLoad" class="prepare-login-container">
-    <img class="suki-logo" src="https://app.sellsuki.com/img/dog_loading.gif">
+    <img class="suki-logo" src="https://oms.akitahub.com/img/dog_loading.gif">
   </div>
 </template>
 
